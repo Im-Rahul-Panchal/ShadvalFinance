@@ -36,9 +36,32 @@ Hosted on **Windows IIS Express**, the application provides a stable environment
 - SQL Server / LocalDB
 - Git
 
+The project has **two main directories**:
+
+| Directory | Purpose                    |
+|-----------|----------------------------|
+| `server` | Server-side application    |
+| `client`| Client-side application    |
+
 ---
 
 ### **Step 1: Clone Repository**
 ```bash
 git clone https://github.com/Im-Rahul-Panchal/Shadval_Finance.git
 cd Shadval_Finance
+```
+
+### **Step 2: Terminal Setup in VS Code**
+Open Two Terminals - You need two separate terminals to run backend and frontend simultaneously 
+| Terminal 1 → Backend | Terminal 2 → Frontend | 
+|----------------------|------------------------------| 
+| cd backend | cd frontend | 
+| npm install | npm install | 
+| npm start | npm start |
+
+### **Step 3: Access the App
+Open your browser: http://localhost:5000
+
+You should now see the full platform working.
+
+Live Demo: https://finance.shadvalpay.co.in/
