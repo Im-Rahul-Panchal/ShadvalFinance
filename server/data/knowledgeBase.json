@@ -1,0 +1,537 @@
+[
+  {
+    "intent": "greeting",
+    "questions": [
+      "oye",
+      "Sun",
+      "hi",
+      "hello",
+      "hey",
+      "hii",
+      "namaste",
+      "good morning",
+      "good evening",
+      "koi hai?",
+      "can you help me",
+      "start"
+    ],
+    "answer": "Hello 👋 Welcome to Shadval Finance. Main aapki loan related madad ke liye yahan hoon. Aap kaunsa loan chahte hain?"
+  },
+
+  {
+    "intent": "company_info",
+    "questions": [
+      "Shadval Finance kya hai",
+      "about Shadval Finance",
+      "company ke baare mein batao",
+      "what is Shadval Finance",
+      "Shadval Finance ka kaam kya hai"
+    ],
+    "answer": "Shadval Finance ek trusted loan assistance platform hai jo personal, home, car aur education loans ke liye lead generation aur guidance provide karta hai."
+  },
+
+  {
+    "intent": "owner_info",
+    "questions": [
+      "company ka owner kaun hai",
+      "Shadval Finance ke founder ka naam",
+      "owner name",
+      "who is the owner of Shadval Finance",
+      "Shadval Finance kisne banayi"
+    ],
+    "answer": "Shadval Finance ke owner ka naam Mr. Shailendra kumar Tyagi hai."
+  },
+
+  {
+  "intent": "loan_types",
+  "questions": [
+    "kaun kaun se loan milte hai",
+    "loan options kya hai",
+    "personal loan milega?",
+    "home loan hai kya",
+    "car loan available hai?",
+    "education loan mil sakta hai?"
+  ],
+    "answer": "Hum personal loan, home loan, car loan aur education loan ke liye assistance provide karte hain. Aap apni requirement batayein."
+},
+
+  {
+    "intent": "personal_loan",
+    "questions": [
+      "personal loan chahiye",
+      "personal loan ka interest",
+      "personal loan eligibility",
+      "personal loan ka process",
+      "salary pe personal loan milega?"
+    ],
+    "answer": "Personal loan minimum documentation ke saath available hai. Interest rate profile par depend karta hai. Aap apni details share karke eligibility check kar sakte hain."
+  },
+
+  {
+    "intent": "home_loan",
+    "questions": [
+      "home loan lena hai",
+      "ghar ke liye loan",
+      "home loan interest rate",
+      "home loan tenure",
+      "home loan ka process kya hai"
+    ],
+    "answer": "Home loan long tenure ke saath milta hai aur competitive interest rates available hain. Aap enquiry submit karke details pa sakte hain."
+  },
+
+  {
+    "intent": "car_loan",
+    "questions": [
+      "car loan chahiye",
+      "gaadi ke liye loan",
+      "car loan interest",
+      "new car loan",
+      "used car loan"
+    ],
+    "answer": "Car loan new aur used dono vehicles ke liye available hai. Rate aur approval aapki profile par depend karta hai."
+  },
+
+  {
+    "intent": "education_loan",
+    "questions": [
+      "education loan",
+      "padhai ke liye loan",
+      "student loan milega?",
+      "education loan interest",
+      "abroad study loan"
+    ],
+    "answer": "Education loan India aur abroad studies dono ke liye available hai. Course aur institution ke basis par eligibility decide hoti hai."
+  },
+
+  {
+    "intent": "eligibility",
+    "questions": [
+      "loan eligibility kya hai",
+      "main eligible hoon ya nahi",
+      "eligibility kaise check kare",
+      "loan milne ke chances",
+      "minimum salary kitni chahiye"
+    ],
+    "answer": "Eligibility income, age, employment status aur credit profile par depend karti hai. Aap enquiry form bharkar free eligibility check kar sakte hain."
+  },
+
+  {
+    "intent": "interest_rate",
+    "questions": [
+      "interest rate kitna hai",
+      "loan ka byaj",
+      "interest charges",
+      "rate of interest kya hai",
+      "kam interest loan milega?"
+    ],
+    "answer": "Interest rate loan type aur profile ke hisaab se vary karta hai. Shadval Finance best possible rates lenders se connect karke provide karta hai."
+  },
+
+  {
+    "intent": "emi",
+    "questions": [
+      "emi kitni banegi",
+      "monthly installment batao",
+      "emi calculate kaise kare",
+      "₹5 lakh loan ki emi",
+      "emi calculator"
+    ],
+    "answer": "EMI loan amount, tenure aur interest rate par depend karti hai. Aap loan details daal kar estimated EMI dekh sakte hain."
+  },
+
+  {
+    "intent": "documents",
+    "questions": [
+      "documents kya lagenge",
+      "loan ke papers",
+      "required documents",
+      "salary slip chahiye?",
+      "bank statement lagega?"
+    ],
+    "answer": "Generally ID proof, address proof, income proof aur bank statement required hote hain. Loan type ke hisaab se documents change ho sakte hain."
+  },
+
+  {
+    "intent": "approval_time",
+    "questions": [
+      "loan approval kitne time me hoga",
+      "approval time",
+      "loan kab milega",
+      "fast approval milega?",
+      "same day loan"
+    ],
+    "answer": "Approval process fast hai. Aksar 24–48 hours ke andar response mil jata hai, profile aur documents par depend karta hai."
+  },
+
+  {
+    "intent": "security",
+    "questions": [
+      "data safe hai?",
+      "privacy ka kya",
+      "details secure hai?",
+      "is Shadval Finance safe",
+      "information leak toh nahi hogi?"
+    ],
+    "answer": "Haan, aapka data secure aur private rehta hai. Hum bank-level security aur encryption use karte hain."
+  },
+
+  {
+    "intent": "contact",
+    "questions": [
+      "contact kaise kare",
+      "call number do",
+      "support se baat karni hai",
+      "how to contact Shadval Finance",
+      "help chahiye"
+    ],
+    "answer": "Aap enquiry form submit kar sakte hain ya website par diye gaye contact options ka use kar sakte hain. Hamari team aapse jaldi connect karegi."
+  },
+
+  {
+    "intent": "thanks",
+    "questions": [
+      "thank you",
+      "thanks",
+      "shukriya",
+      "ok thanks",
+      "help ke liye thanks"
+    ],
+    "answer": "Aapka swagat hai 😊 Agar aapko aur koi loan related question ho toh pooch sakte hain."
+  },
+  {
+    "intent": "employment_status",
+    "questions": [
+      "job wale ke liye loan",
+      "self employed loan milega?",
+      "businessman ke liye loan",
+      "salary nahi hai loan milega?",
+      "freelancer ke liye loan"
+    ],
+    "answer": "Salaried aur self-employed dono applicants ke liye loan options available hain. Eligibility aapki income aur profile par depend karti hai."
+  },
+
+  {
+    "intent": "credit_score",
+    "questions": [
+      "cibil score kya hona chahiye",
+      "low cibil me loan milega?",
+      "cibil nahi hai loan milega?",
+      "credit score ka effect",
+      "bad cibil loan possible?"
+    ],
+    "answer": "Achha CIBIL score approval chances badhata hai, lekin low score cases me bhi kuch lenders options dete hain."
+  },
+
+  {
+  "intent": "loan_amount",
+  "questions": [
+    "minimum loan amount kya hai",
+    "what is the minimum loan amount?",
+    "maximum loan kitna milta hai",
+    "₹50,000 ka loan milega?",
+    "₹10 lakh ka loan possible?",
+    "loan limit kitni hoti hai"
+  ],
+    "answer": "Minimum loan amount ₹1,00,000 se start hota hai aur maximum profile aur loan type par depend karta hai. Aapki eligibility ke hisaab se best amount suggest kiya jayega."
+},
+
+  {
+    "intent": "tenure",
+    "questions": [
+      "loan tenure kitna hota hai",
+      "kitne saal ka loan le sakte hai",
+      "short term loan",
+      "long tenure loan",
+      "emi kam karne ka option"
+    ],
+    "answer": "Loan tenure flexible hota hai. Short tenure me interest kam hota hai aur long tenure me EMI kam hoti hai."
+  },
+
+  {
+    "intent": "processing_fee",
+    "questions": [
+      "processing fee lagegi?",
+      "hidden charges hai kya",
+      "extra charges batao",
+      "loan lene ka charge",
+      "koi fees hoti hai?"
+    ],
+    "answer": "Processing fee lender ke terms par depend karti hai. Complete transparency ke saath details batayi jaati hain."
+  },
+
+  {
+    "intent": "prepayment",
+    "questions": [
+      "loan jaldi close kar sakte hai?",
+      "prepayment allowed hai?",
+      "foreclosure charges",
+      "emi se pehle payment",
+      "loan band karna ho toh"
+    ],
+    "answer": "Haan, kai lenders prepayment aur foreclosure allow karte hain. Charges lender policies par depend karte hain."
+  },
+
+  {
+    "intent": "loan_tracking",
+    "questions": [
+      "mera loan status kya hai",
+      "application track kaise kare",
+      "loan kaha tak pahucha",
+      "approval hua ya nahi",
+      "status update chahiye"
+    ],
+    "answer": "Aapki enquiry ke baad hamari team aapko loan status aur updates provide karti rahegi."
+  },
+
+  {
+    "intent": "co_applicant",
+    "questions": [
+      "co applicant add kar sakte hai?",
+      "joint loan possible?",
+      "wife ke saath loan",
+      "father ke naam se loan",
+      "family member add kar sakte hai?"
+    ],
+    "answer": "Haan, co-applicant add karne se eligibility aur loan amount badh sakta hai."
+  },
+
+  {
+    "intent": "age_criteria",
+    "questions": [
+      "age limit kya hai",
+      "minimum age for loan",
+      "maximum age kitni honi chahiye",
+      "18 saal me loan milega?",
+      "60 ke baad loan milega?"
+    ],
+    "answer": "Loan ke liye minimum aur maximum age criteria hota hai jo loan type aur lender par depend karta hai."
+  },
+
+  {
+    "intent": "location_based",
+    "questions": [
+      "mere city me loan milega?",
+      "rural area loan",
+      "village se loan",
+      "small city loan",
+      "pan india service hai?"
+    ],
+    "answer": "Shadval Finance pan-India loan assistance provide karta hai, location ke basis par lender decide hota hai."
+  },
+
+  {
+    "intent": "bank_vs_nbfc",
+    "questions": [
+      "bank se loan ya nbfc?",
+      "nbfc loan safe hai?",
+      "private lender loan",
+      "best lender kaun sa",
+      "bank loan better hai?"
+    ],
+    "answer": "Bank aur NBFC dono ke apne benefits hote hain. Hum aapki profile ke hisaab se best option suggest karte hain."
+  },
+
+  {
+    "intent": "loan_rejection",
+    "questions": [
+      "loan reject kyun hota hai",
+      "reject ho gaya kya kare",
+      "loan reject reasons",
+      "approval nahi mil raha",
+      "loan fail ho gaya"
+    ],
+    "answer": "Loan rejection income mismatch, low credit score ya documents issue ki wajah se ho sakta hai. Alternative options available hote hain."
+  },
+
+  {
+    "intent": "women_loan",
+    "questions": [
+      "ladies ke liye loan",
+      "women loan scheme",
+      "housewife loan",
+      "female applicant benefits",
+      "mahila loan"
+    ],
+    "answer": "Women applicants ke liye kuch lenders special benefits aur better rates offer karte hain."
+  },
+
+  {
+    "intent": "business_loan",
+    "questions": [
+      "business loan milega?",
+      "vyapar ke liye loan",
+      "shop ke liye loan",
+      "startup loan",
+      "working capital loan"
+    ],
+    "answer": "Business aur working capital loans available hain. Eligibility business income aur vintage par depend karti hai."
+  },
+
+  {
+    "intent": "support_language",
+    "questions": [
+      "hindi me baat hogi?",
+      "english support hai?",
+      "language option",
+      "regional language support",
+      "call kis language me aayegi"
+    ],
+    "answer": "Haan, Hindi aur English dono languages me support available hai."
+  },
+
+  {
+    "intent": "callback_request",
+    "questions": [
+      "mujhe call back chahiye",
+      "agent se baat karni hai",
+      "phone call karwao",
+      "representative se connect karo",
+      "human support chahiye"
+    ],
+    "answer": "Zaroor 😊 Aap enquiry submit karein, hamari team jaldi hi aapse call par connect karegi."
+  },
+
+  {
+    "intent": "trust_factor",
+    "questions": [
+      "Shadval Finance trusted hai?",
+      "fake toh nahi?",
+      "company genuine hai?",
+      "safe hai kya",
+      "reliable platform hai?"
+    ],
+    "answer": "Shadval Finance ek trusted loan assistance platform hai jo transparency aur customer privacy ko priority deta hai."
+  },
+  {
+    "intent": "bye_exit",
+    "questions": [
+      "bye",
+      "goodbye",
+      "by",
+      "chalna hai",
+      "baad me baat karenge",
+      "not now",
+      "later",
+      "close",
+      "exit",
+      "stop chat"
+    ],
+    "answer": "Theek hai 😊 Jab bhi loan related help chahiye ho, Shadval Finance yahin milega. Bye!"
+  },
+
+  {
+    "intent": "negative_no",
+    "questions": [
+      "no",
+      "nahi",
+      "nah",
+      "not interested",
+      "mujhe loan nahi chahiye",
+      "cancel",
+      "skip",
+      "leave it",
+      "koi zarurat nahi"
+    ],
+    "answer": "Koi baat nahi 👍 Agar future me loan ya information chahiye ho, aap kabhi bhi pooch sakte hain."
+  },
+  {
+    "intent": "confused_user",
+    "questions": [
+      "samajh nahi aa raha",
+      "kya karna hai",
+      "process thoda confusing hai",
+      "help me decide",
+      "kaunsa loan sahi rahega",
+      "main kya select karu",
+      "aage kya karu",
+      "kya best rahega"
+    ],
+    "answer": "Koi tension nahi 😊 Main aapko guide kar deta hoon. Bas bataiye – aap kis purpose ke liye loan chahte hain?"
+  },
+  {
+    "intent": "tricky_questions",
+    "questions": [
+      "loan lena sahi hota hai ya nahi?",
+      "emi bharna mushkil toh nahi?",
+      "agar job chali gayi toh?",
+      "loan risk hai kya",
+      "future me problem hogi?",
+      "loan lene se credit kharab hota hai?",
+      "emi miss ho gayi toh?"
+    ],
+    "answer": "Loan tabhi lena chahiye jab EMI comfortable ho. Sahi planning ke saath loan aapke liye helpful hota hai. Hum aapko best option suggest karte hain."
+  },
+  {
+    "intent": "urgent_loan",
+    "questions": [
+      "aaj hi loan chahiye",
+      "urgent loan",
+      "emergency loan",
+      "jaldi paisa chahiye",
+      "same day loan possible?"
+    ],
+    "answer": "Emergency cases me fast processing available hoti hai. Aap enquiry submit karein, hum jaldi se jaldi help karenge."
+  },
+  {
+    "intent": "random_text",
+    "questions": [
+      "hmmm",
+      "ok",
+      "acha",
+      "theek hai",
+      "huh",
+      "???",
+      "...",
+      "🙂",
+      "👍"
+    ],
+    "answer": "Agar aapko loan related koi bhi sawal ho toh pooch sakte hain 🙂"
+  },
+  {
+    "intent": "comparison",
+    "questions": [
+      "personal loan vs credit card",
+      "home loan ya personal loan",
+      "bank better hai ya app",
+      "emi vs full payment",
+      "short loan ya long loan"
+    ],
+    "answer": "Har option ke apne pros & cons hote hain. Aapki need aur budget ke hisaab se best choice decide hoti hai."
+  },
+  {
+  "intent": "eligibility",
+  "questions": [
+    "loan eligibility kya hai",
+    "main eligible hoon ya nahi",
+    "eligibility kaise check kare",
+    "how can i check my eligibility?",
+    "loan milne ke chances",
+    "minimum salary kitni chahiye"
+  ],
+    "answer": "Eligibility income, age, employment status aur credit profile par depend karti hai. Aap enquiry form bharkar free eligibility check kar sakte hain."
+},
+{
+  "intent": "documents",
+  "questions": [
+    "documents kya lagenge",
+    "loan ke papers",
+    "required documents",
+    "what documents are required?",
+    "salary slip chahiye?",
+    "bank statement lagega?"
+  ],
+    "answer": "Generally ID proof, address proof, income proof aur bank statement required hote hain. Loan type ke hisaab se documents change ho sakte hain."
+},
+{
+  "intent": "emi",
+  "questions": [
+    "emi kitni banegi",
+    "monthly installment batao",
+    "emi calculate kaise kare",
+    "how much emi will i pay?",
+    "₹5 lakh loan ki emi",
+    "emi calculator"
+  ],
+    "answer": "EMI loan amount, tenure aur interest rate par depend karti hai. Aap loan details daal kar estimated EMI dekh sakte hain."
+}
+]

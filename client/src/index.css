@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui;
+}
+
+.recharts-wrapper *:focus {
+  outline: none !important;
+}
+
+.recharts-wrapper svg {
+  outline: none;
+}
