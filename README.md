@@ -1,2 +1,44 @@
-# ShadvalFinance
-Shadval Finance is a digital loan service platform designed to provide quick and accessible loan solutions to users. The platform focuses on simplifying the loan application process, eligibility checks, and loan management through a secure and user-friendly interface.
+# Shadval Finance – Digital Loan Platform
+
+[Visit Live Site](https://finance.shadvalpay.co.in/)
+
+Shadval Finance is a secure and reliable digital loan platform that allows users to apply for personal and business loans quickly and seamlessly. The platform is designed to simplify the loan application process, track loan status, and provide a smooth experience for both borrowers and administrators.
+
+Hosted on **Windows IIS Express**, the application provides a stable environment for testing and deployment.
+
+---
+
+## 🌟 Features
+
+- **Online Loan Application** – Apply for loans directly from the platform.
+- **Responsive Interface** – Works well across desktops, tablets, and mobile devices.
+- **Secure & Reliable** – Built with best practices for data protection.
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Technology                     |
+|--------------|--------------------------------|
+| Frontend     | React / HTML, Tailwind_CSS, JavaScript  |
+| Backend      | Node.js / Express / .NET (C#)  |
+| Hosting      | Windows IIS Express            |
+| Database     | SQL Server          |
+
+---
+
+## 💻 Setup Instructions
+
+### **Prerequisites**
+- Node.js & npm installed
+- Windows OS
+- Visual Studio (for IIS Express projects)
+- SQL Server / LocalDB
+- Git
+
+---
+
+### **Step 1: Clone Repository**
+```bash
+git clone https://github.com/Im-Rahul-Panchal/Shadval_Finance.git
+cd Shadval_Finance
