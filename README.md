@@ -59,7 +59,7 @@ Open Two Terminals - You need two separate terminals to run backend and frontend
 | npm install | npm install | 
 | npm start | npm start |
 
-### **Step 3: Access the App
+### **Step 3: Access the App**
 Open your browser: http://localhost:5000
 
 You should now see the full platform working.
