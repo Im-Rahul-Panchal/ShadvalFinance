@@ -16,6 +16,34 @@ Hosted on **Windows IIS Express**, the application provides a stable environment
 
 ---
 
+# 🖼️ Website Preview
+
+## 🏠 Homepage
+![Homepage](./public/home.png)
+
+---
+
+## 👨‍💻 Loan Enquiry Form
+![About](./public/loan.png)
+
+---
+
+## 🛠 EMI Calculator
+![Skills](./public/emi.png)
+
+---
+
+## 📂 Cibil Score Section
+![Projects](./public/cibil.png)
+
+---
+
+## 📂 Chatbot Section
+![Projects](./public/chat.png)
+
+---
+
+
 ## 🛠️ Tech Stack
 
 | Layer        | Technology                     |
@@ -63,5 +91,3 @@ Open Two Terminals - You need two separate terminals to run backend and frontend
 Open your browser: http://localhost:5000
 
 You should now see the full platform working.
-
-Live Demo: https://finance.shadvalpay.co.in/
