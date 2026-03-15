@@ -19,27 +19,27 @@ Hosted on **Windows IIS Express**, the application provides a stable environment
 # 🖼️ Website Preview
 
 ## 🏠 Homepage
-![Homepage](./public/home.png)
+![Homepage](./client/public/home.png)
 
 ---
 
 ## 👨‍💻 Loan Enquiry Form
-![About](./public/loan.png)
+![Loan Enquiry](./client/public/loan.png)
 
 ---
 
 ## 🛠 EMI Calculator
-![Skills](./public/emi.png)
+![Emi](./client/public/emi.png)
 
 ---
 
 ## 📂 Cibil Score Section
-![Projects](./public/cibil.png)
+![Cibil Score](./client/public/cibil.png)
 
 ---
 
 ## 📂 Chatbot Section
-![Projects](./public/chat.png)
+![Chatbot](./client/public/chat.png)
 
 ---
 
